@@ -36,7 +36,8 @@ In this repository you can find a file with a list of existing deshes for your s
 
 *The examples use **JavaScript** syntax, but the methodology can be used in all languages that support single-line comments.*
 
-Arbitrary code without using **DTS**:
+
+### Arbitrary code without using **DTS**:
 
 
 ```javascript
@@ -78,7 +79,7 @@ function Player()
 ```
 
 
-The same code using **DTS**:
+### The same code using **DTS**:
 
 
 ```javascript
