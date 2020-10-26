@@ -12,7 +12,7 @@
   - [Long desh](#long-desh)
   - [Normal desh](#normal-desh)
   - [Short desh](#short-desh)
-  - [Small desh](#small-desh)
+  - [Only title](#only-title)
 
 
 <!-- ------------------------ DTS ------------------------ -->
@@ -253,10 +253,8 @@ Single named:
 ```
 
 
-## Small desh
+## Only title
 
-
-Single:
 
 ```javascript
 /* TITLE */
