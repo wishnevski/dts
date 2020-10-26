@@ -6,6 +6,8 @@
 
 - [DTS](#dts)
 - [Example](#example)
+  - [Without DTS](#arbitrary-code-without-using-dts)
+  - [With DTS](#arbitrary-code-using-dts)
 - [Documentation](#documentation)
   - [Long desh](#long-desh)
   - [Normal desh](#normal-desh)
@@ -79,7 +81,7 @@ function Player()
 ```
 
 
-#### The same code using **DTS**:
+#### Arbitrary code using **DTS**:
 
 
 ```javascript
