@@ -135,13 +135,13 @@ function Player()
 ```
 
 
-Note, that two blank lines above and below desh are required condition, not one.
-
-
 <!-- ------------------------ DOCUMENTATION ------------------------ -->
 
 
 # Documentation
+
+
+Note, that two blank lines above and below desh are required condition, not one.
 
 
 ## Long desh
