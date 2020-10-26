@@ -12,6 +12,8 @@
   - [Short desh](#short-desh)
   - [Small desh](#small-desh)
 
+---
+
 
 <!-- ------------------------ DTS ------------------------ -->
 
@@ -25,7 +27,9 @@ The basic concept is simple: the semantic parts of the code are separated by das
 
 Dashes have different accent characteristics, which allows dividing the code into nested hierarchies, as well as naming parts of the code, making it easier to visually find the necessary pieces.
 
-`In this repository you can find a file with a list of existing deshes for your specific language. It will be named "DTS.<Your language file extension>". E.g. "DTS.js" or "DTS.cpp" etc.`
+In this repository you can find a file with a list of existing deshes for your specific language. It will be named `DTS.<Your language file extension>`. E.g. `DTS.js` or `DTS.cpp` etc.
+
+---
 
 
 <!-- ------------------------ EXAMPLE ------------------------ -->
