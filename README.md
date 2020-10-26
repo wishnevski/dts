@@ -12,8 +12,6 @@
   - [Short desh](#short-desh)
   - [Small desh](#small-desh)
 
----
-
 
 <!-- ------------------------ DTS ------------------------ -->
 
@@ -29,8 +27,6 @@ Dashes have different accent characteristics, which allows dividing the code int
 
 In this repository you can find a file with a list of existing deshes for your specific language. It will be named `DTS.<Your language file extension>`. E.g. `DTS.js` or `DTS.cpp` etc.
 
----
-
 
 <!-- ------------------------ EXAMPLE ------------------------ -->
 
@@ -38,7 +34,7 @@ In this repository you can find a file with a list of existing deshes for your s
 # Example
 
 
-`*The examples use **JavaScript** syntax, but the methodology can be used in all languages that support single-line comments.*`
+*The examples use **JavaScript** syntax, but the methodology can be used in all languages that support single-line comments.*
 
 Arbitrary code without using **DTS**:
 
